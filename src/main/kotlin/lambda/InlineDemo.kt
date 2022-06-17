@@ -1,4 +1,8 @@
 package lambda
+
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
+
 object InlineDemo {
 
     @JvmStatic
