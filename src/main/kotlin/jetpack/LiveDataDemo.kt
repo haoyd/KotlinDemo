@@ -1,5 +1,7 @@
+package jetpack
+object LiveDataDemo {
 
-object Template {
+
     @JvmStatic
     fun main(args: Array<String>) {
 
